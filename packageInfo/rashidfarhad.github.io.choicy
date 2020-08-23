@@ -1,0 +1,9 @@
+{
+	"name": "Choicy",
+	"desc_short": "An advanced tweak configurator!",
+	"desc_long": "<p>An advanced tweak configurator!<br><br>NOT A JAILBREAK DETECTION BYPASS<br><br>Features:<br>• Disable tweak injection for every process individually<br>• Configure each tweak dylib for every process individually<br>• Disable tweaks globally (with the ability to set exceptions for individual processes)<br>• Option for an application shortcut to launch the application with or without tweaks once</p>",
+	"compatitle": "iOS 10 -  13.5",
+	"changelog": "<strong>1.2.2: June 8, 2020</strong><br>⦿ SparkAppListSB is no longer being wrongfully hidden inside settings<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://moreinfo.thebigboss.org/moreinfo/choicy1.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/choicy1.jpg'/></a><a href='https://moreinfo.thebigboss.org/moreinfo/choicy2.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/choicy2.jpg'/></a><a href='https://moreinfo.thebigboss.org/moreinfo/choicy3.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/choicy3.jpg'/></a></div>",
+	"open": false,
+}

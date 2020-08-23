@@ -1,0 +1,15 @@
+Package: com.hackyouriphone.IconRepo
+Section: Supports iOS 13
+Installed-Size: 3508
+Maintainer: RashidFarhad <rashidfarhad@gmail.com>
+Architecture: iphoneos-arm
+Version: 3.0-1k
+Filename: ./debs/Icon.deb
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.firepo.hmodeis.apphack
+Name: Repo Icon
+Author: hmodei96
+Sponsor: RashidFarhad <https://rashidfarhad.ml>
+MD5: 155cab1e02bb68bf52fc54755f9874a8
+SHA1: 6c4b039c11b479eebbe9e57583c168af01e05755
+SHA256: deb3c415e5e1030258d3e3457466e2c700854967e624796c0b64c0c5db79fec8

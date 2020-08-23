@@ -1,0 +1,9 @@
+{
+	"name": "GameGem",
+	"desc_short": "Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x",
+	"desc_long": "Cheat engine for ios. Support iPhone and iPad with iOS 8 ~ 11.x . Support mode: accurate , fuzzy, accurate x fuzzy. Support data type: Word, DWord, Float. Support data locking and batch modify.",
+	"compatitle": "iOS 8 -  13.5",
+	"changelog": "<strong>1.5</strong><br>⦿ Fix \"0 match\" error.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem1.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem1.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem2.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem2.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem3.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem3.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem4.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem4.jpg'/></a></div>",
+	"open": false,
+}

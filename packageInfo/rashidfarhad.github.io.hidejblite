@@ -1,0 +1,9 @@
+{
+	"name": "HideJB Lite",
+	"desc_short": "Bybass jailbreak detection in certain apps, lite version of HideJB",
+	"desc_long": "Outdoing the detection of jailbroken devices in applications such as banking and games such as PUBG<br><br>This is a light version of HideJB but still contains the great power of HideJB.<br><br>Supports both A12 devices",
+	"compatitle": "iOS 9 -  13.5",
+	"changelog": "<strong>1.0</strong><br>⦿ Support checkra1n jailbreak <br> ⦿ Support iOS 13 <br>",
+	//"screenshot": "<div style='text-align:center;'><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem1.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem1.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem2.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem2.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem3.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem3.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/gamegem4.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/gamegem4.jpg'/></a></div>",
+	"open": false,
+}

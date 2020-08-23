@@ -1,0 +1,9 @@
+{
+	"name": "FlyJB",
+	"desc_short": "You can HIDE Doing jailbreak your iDevice.",
+	"desc_long": "FlyJB is a Tweak To Bypass Jailbreak Detection.. It Works With Latest Outlook And Latest Sparkasse Banking App.",
+	"compatitle": "iOS 13 -  13.5",
+	//"changelog": "<strong>5.1.6: May 23, 2020</strong><br>⦿ Support for 13.5<br> ⦿  More coming soon<br><br><strong>5.1.5: May 1, 2020</strong><br> ⦿  Fix Folder Size after closing.<br> ⦿ Fix Status Bar not disappearing when editing.<br> ⦿ Adds Option set carrier as time<br> ⦿ Adds Option to set custom time format<br> ⦿ Adds option to make moving with small icons easier<br> ⦿ Improve Disabling SpringBoard Rotation<br> ⦿ Temperature as a time option<br> ⦿ Conditions as a time option<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://preview.redd.it/xop2oj801wl41.jpg?width=640&crop=smart&auto=webp&s=9c69c76be77fc7411ff1e34fa89417a03f2618d0' target='_blank'><img width=95% src='https://preview.redd.it/xop2oj801wl41.jpg?width=640&crop=smart&auto=webp&s=9c69c76be77fc7411ff1e34fa89417a03f2618d0'/></a></div>",
+	"open": false,
+}

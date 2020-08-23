@@ -1,0 +1,9 @@
+{
+	"name": "A-Bypass",
+	"desc_short": "Super Jailbreak detection bypass!",
+	"desc_long": "<p><strong>If you get an AppList dependency error, you need to add <a href=\"https://rpetri.ch/repo\">Rpetrich Repo</a>.</strong></p><br><p>A-Bypass is an A12-supported jailbreak detection bypass tweak to run Korean apps.</p>",
+	"compatitle": "iOS 13 -  13.5",
+	"changelog": "<strong>1.0.7: April 21, 2020</strong><br>⦿ Thanks for using A-Bypass!<br> ⦿  Performance improvement<br>",
+	//"screenshot": "<div style='text-align:center;'><a href='https://preview.redd.it/xop2oj801wl41.jpg?width=640&crop=smart&auto=webp&s=9c69c76be77fc7411ff1e34fa89417a03f2618d0' target='_blank'><img width=95% src='https://preview.redd.it/xop2oj801wl41.jpg?width=640&crop=smart&auto=webp&s=9c69c76be77fc7411ff1e34fa89417a03f2618d0'/></a></div>",
+	"open": false,
+}

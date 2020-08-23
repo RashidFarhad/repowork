@@ -1,0 +1,9 @@
+{
+	"name": "Apps Manager",
+	"desc_short": "Apps Manager, Flexible way to manage application’s data",
+	"desc_long": "- Backup AppData: Backup entire application data, include all saved files, settings, data stored in keychain …<br>- Restore AppData: Restore application data<br>- Wipe AppData: Wipe application data, include all files, settings, …<br>- Quick open application container, document container, or app groups<br>- Import/Export backup. You can use it to transfer application data from your device to other deivces",
+	"compatitle": "iOS 7 -  13.5",
+	"changelog": "<strong>1.5.3</strong><br>⦿ Fixed keychain access issue on iOS 13.5<br>⦿ Fully supported iOS 13.5<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://moreinfo.thebigboss.org/moreinfo/appsmanager1.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/appsmanager1.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/appsmanager2.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/appsmanager2.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/appsmanager3.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/appsmanager3.jpg'/></a><a href='http://moreinfo.thebigboss.org/moreinfo/appsmanager4.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/appsmanager4.jpg'/></a></div>",
+	"open": false,
+}
