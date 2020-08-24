@@ -1,0 +1,15 @@
+Package: cf.rashidfarhad.flappybird
+Section: Games
+Installed-Size: 3508
+Maintainer: RashidFarhad <rashidfarhad@gmail.com>
+Architecture: iphoneos-arm
+Version: 2.4
+Filename: ./debfiles/cf.rashidfarhah.flappybird_2.6_iphoneos-arm.deb
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.firepo.hmodeis.apphack
+Name: FlappyBird App 🔥
+Author: RashidFarhad
+Sponsor: RashidFarhad <https://rashidfarhad.ml>
+MD5: 34b584c2055e595342fba74cdad25199
+SHA1: eae4b8207244760b96e1b78201613f38f369e526
+SHA256: f154ce6ffa7896ee588598bea2f95be28b9ca64af686019e123aef214dcc3a7d
