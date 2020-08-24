@@ -10,10 +10,10 @@ Conflicts: com.firepo.hmodeis.apphack
 Name: FlappyBird App 🇮🇱🔥
 Author: RashidFarhad
 Sponsor: RashidFarhad <https://rashidfarhad.ml>
-MD5sum: 34b584c2055e595342fba74cdad25199
-SHA1sum: eae4b8207244760b96e1b78201613f38f369e526
-SHA256sum: 4c97e87b307136a59af93b5b4e323dd310dcf6e70889a232f789f42d5d5eb5b7
-Filename: ./debfiles/flapy.deb
+MD5: 34b584c2055e595342fba74cdad25199
+SHA1: eae4b8207244760b96e1b78201613f38f369e526
+SHA256: f154ce6ffa7896ee588598bea2f95be28b9ca64af686019e123aef214dcc3a7d
+Filename: ./debfiles/cf.rashidfarhah.flappybird_2.6_iphoneos-arm.deb
 
 Package: cf.rashidfarhad.a-bypass
 Section: Tweaks
@@ -27,7 +27,7 @@ Conflicts: com.firepo.hmodeis.apphack
 Name: A-Bypass🇮🇱🔥
 Author: RashidFarhad
 Sponsor: RashidFarhad <https://rashidfarhad.ml>
-MD5sum: 34b584c2055e595342fba74cdad25199
-SHA1sum: 50c4facc055aeb21b246f57471397da6986426ac
-SHA256sum: 4c97e87b307136a59af93b5b4e323dd310dcf6e70889a232f789f42d5d5eb5b7
-Filename: ./debfiles/A-Bypass.deb
+MD5: 6b47b6abc6d829d53dbba358fd9853ce
+SHA1: 50c4facc055aeb21b246f57471397da6986426ac
+SHA256: 4c97e87b307136a59af93b5b4e323dd310dcf6e70889a232f789f42d5d5eb5b7
+Filename: ./debfiles/com.rpgfarm.a-bypass.deb
