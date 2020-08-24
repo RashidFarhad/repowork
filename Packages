@@ -15,7 +15,7 @@ SHA1: eae4b8207244760b96e1b78201613f38f369e526
 SHA256: f154ce6ffa7896ee588598bea2f95be28b9ca64af686019e123aef214dcc3a7d
 Filename: ./debfiles/cf.rashidfarhah.flappybird_2.6_iphoneos-arm.deb
 
-Package: cf.rashidfarhad.a-bypass
+Package: com.rpgfarm.a-bypass
 Section: Tweaks
 Size: 123902
 Installed-Size: 3508
